@@ -1,0 +1,7 @@
+C:\Users\joanasilva\source\repos\Exercicios_novos\Exercicios_novos\bin\Debug\Exercicios_novos.exe.config
+C:\Users\joanasilva\source\repos\Exercicios_novos\Exercicios_novos\bin\Debug\Exercicios_novos.exe
+C:\Users\joanasilva\source\repos\Exercicios_novos\Exercicios_novos\bin\Debug\Exercicios_novos.pdb
+C:\Users\joanasilva\source\repos\Exercicios_novos\Exercicios_novos\obj\Debug\Exercicios_novos.csproj.AssemblyReference.cache
+C:\Users\joanasilva\source\repos\Exercicios_novos\Exercicios_novos\obj\Debug\Exercicios_novos.csproj.CoreCompileInputs.cache
+C:\Users\joanasilva\source\repos\Exercicios_novos\Exercicios_novos\obj\Debug\Exercicios_novos.exe
+C:\Users\joanasilva\source\repos\Exercicios_novos\Exercicios_novos\obj\Debug\Exercicios_novos.pdb
